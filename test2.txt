@@ -1,4 +1,5 @@
 My first commit 1
 My first commit 2.0
-My second commit 2.1
+My second commit 2.1.B
 My first commit 3
+test merge
